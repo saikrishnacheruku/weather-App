@@ -1,11 +1,11 @@
-![Application screenshot](./public/screenshot.png)
+![Application screenshot](./public/screenshot(150).png)
 
 <br/>
 <br/>
 
 With [The Weather Forecasting] user can search locations by city name and observe the weather for the next 5-6 days and 3 hour interval.
 <br />
-The app is developed using React.js and material-UI.
+The app is developed using React.js.
 
 <br/>
 
@@ -26,21 +26,21 @@ The app is developed using React.js and material-UI.
 
 ## ⚡ Install
 
-- Clone the repository: 
+- Clone the repository:  https://github.com/saikrishnacheruku/weather-App.git
 
 ```bash
 git clone 
 
 ```
 
-- Install the packages using the command `npm install`
+- Install the packages using the command `npm install` 
 
 <br/>
 
 ## 📙 Used libraries
 
 - `react-js`
-- `material-ui`
+
 
 Check `packages.json` for details
 
